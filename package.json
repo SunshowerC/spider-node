@@ -1,0 +1,22 @@
+{
+  "name": "spider-node",
+  "version": "1.0.0",
+  "description": "spider by nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodetest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weiyu-Chen/spider-node.git"
+  },
+  "keywords": [
+    "spider"
+  ],
+  "author": "chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Weiyu-Chen/spider-node/issues"
+  },
+  "homepage": "https://github.com/Weiyu-Chen/spider-node#readme"
+}
